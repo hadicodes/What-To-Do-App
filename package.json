@@ -1,0 +1,13 @@
+{
+  "name": "what-to-do-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hadicodes/What-To-Do-App.git",
+  "author": "Hadi Yousufi <reach.hadiy@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "babel-preset-env": "1.6.1",
+    "babel-preset-react": "6.24.1"
+  }
+}
